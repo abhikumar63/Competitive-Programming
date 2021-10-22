@@ -13,7 +13,7 @@ int main(){
         {
             cout<<"0";
         }
-        else if((arr[0]==arr[1]&&arr[1]==arr[2])||(arr[1]==arr[2]&&arr[2]==arr[3]))
+        else if ((arr[0]==arr[1]&&arr[1]==arr[2])||(arr[1]==arr[2]&&arr[2]==arr[3]))
         {
             cout<<"1";
         }
